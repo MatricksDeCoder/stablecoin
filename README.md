@@ -1,1 +1,1 @@
-#  stablecoin
+# stablecoin
